@@ -11,5 +11,13 @@
   "dependencies": {
     "prompt-sync": "^4.2.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianafandrade6/.gitignore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marianafandrade6/.gitignore/issues"
+  },
+  "homepage": "https://github.com/marianafandrade6/.gitignore#readme",
   "description": ""
 }
